@@ -1,4 +1,4 @@
-# Salads-XYZ Data Platform
+# GCP Data Platform
 
 Salads-XYZ is an imaginary fast-growing meal-kit company based in London that specializes in selling fresh salads. As the company is growing rapidly, they have decided to build their data platform on Google Cloud.
 
